@@ -1,4 +1,4 @@
 # cv
 
-[CV (english)](README.en.md) | [Резюме (русский)](README.ru.md)
+[cv (english)](README.en.md) | [резюме (русский)](README.ru.md)
 
